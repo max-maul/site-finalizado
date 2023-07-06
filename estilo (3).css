@@ -1,0 +1,181 @@
+.navbar {
+    background-color: rgb(255, 208, 0);
+    
+}
+
+.info {
+    border: solid red 1px;
+}
+
+.col1 {
+    border: solid black 1px;
+}
+
+.col2 {
+    border: solid red 1px;
+}
+
+.altura {
+    height: 80vh;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: yellow;
+    overflow-x: hidden;
+    
+}
+
+.botao-login {
+    text-decoration: none;
+    color: white;
+    
+}
+
+.margemcima {
+    margin-top: 235px;
+}
+
+.alturanav {
+    height: 30px;
+    border: solid black 1px;
+}
+
+
+h1 {
+    font-size: 200px;
+}
+
+.fonte {
+    font-size: 50px;
+}
+
+.margemtopo3 {       /*linha 68*/
+    margin-top: 10px;
+}
+
+.border-custom {
+        box-shadow: 1px 1px 2px ;
+}
+
+.margeml {
+    margin-left: 100px;
+}
+
+.navbar-brand{
+    height: 60px;
+}
+
+.img-fluid{   /*imagem logo*/ 
+    width: 55px;
+    height: 55px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+
+.btn-entrar{
+
+    bottom: 70px;
+}
+
+.nav-item{
+margin-right: 40px;
+}
+
+
+
+footer{ 
+    border-top: 1px solid #000000;
+   background-color: #000000;
+   color: white;
+   
+}
+.margemb {  /*linha 56*/
+    margin-bottom: 0;
+}
+
+.margemtopo {     /*h1*/
+    margin-top: 100px;
+}
+
+
+
+
+
+
+
+  .figure{ /*primeira img da home*/
+    position: absolute;
+    left: 65%;
+    border: #000000;
+    transform: scale(11);
+  }
+
+  .figure1{  /* segunda img da home*/
+    margin-top: 6%;
+    position: absolute;
+    right: 80%;
+    border: #000000;
+    transform: scale(9);
+  }
+
+  .sec1{      /*primeira section*/
+    padding-top: 200px;
+
+  }
+
+  .sec2{       /*segunda section*/
+    padding-bottom: 10%;
+
+  }
+
+
+
+
+
+
+  .row-altura { /*cartao.html linha44*/
+ 
+    width: 50%; 
+    height: 100vh; /* Altura total da janela */
+    float: left;
+  }
+
+  .section2 {
+    background-color: #ffffff; 
+    width: 50%; /* Metade da largura da janela */
+    height: 100vh; /* Altura total da janela */
+    float: left;
+  }
+
+.container1{
+    background-image: url(mulherCartao.jpg)
+
+}
+
+
+
+
+
+
+
+
+.container {
+   
+   width: 50%;
+  }
+
+  /* Estilo para a coluna esquerda */
+  .column {
+    width: 100%;
+    padding: 100px;
+  }
+
+  /* Estilo para a imagem de background */
+  .background-image {
+    background-image: url('mulherCartao.jpg');
+    background-size: cover;
+    height: 50%;
+    width: 50%;
+    padding: auto;
+  }

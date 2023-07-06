@@ -1,0 +1,166 @@
+
+
+.nodec {
+    text-decoration: none;
+    color: white;
+}
+.altura {
+    height: 120vh;
+}
+
+.mt {
+    padding-top: 70px;
+}
+
+.mb {
+    margin-bottom: 30px;
+}
+h1 {
+    font-size: 40px;
+}
+
+.input {
+    border: 0;
+    border-bottom: solid grey 2px;
+    padding-right: 150px;
+    outline: none;
+    margin-bottom: 50px;
+    padding-top: 10px;
+    padding-bottom: 5px;
+}
+
+.input:focus {
+    border-bottom: solid black 2px;
+}
+.input:hover {
+    border-bottom: solid black 2px;
+}
+.btn-primary    {
+    border-radius:  30px;
+    padding-right: 35px;
+    padding-left: 35px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    
+}
+
+.abrir {
+    margin-bottom: 0;
+}
+
+.fonte {
+    font-size: 30px;
+}
+
+.bgc {
+    background-color: rgb(255, 196, 0);
+}
+
+.quadrado {
+    background-color: white;
+    border-radius: 20px;
+    padding: 20px;
+    font-weight: 500;
+    height: 400px;
+}
+
+.margemb {
+    padding-bottom: 40px;
+    
+}
+
+.mtcustom {
+    margin-top: 50px;
+}
+
+.img-fluid{
+    width: 55px;
+    height: 55px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+
+
+.nav-item{
+    margin-right: 40px;
+}
+
+.alturanav {
+        height: 20px;
+        border: solid black 1px;
+    }
+
+    .border-custom {
+        box-shadow: 1px 1px 2px ;
+}
+.navbar-brand{
+    height: 60px;
+}
+.botao-login {
+    text-decoration: none;
+    color: white;
+}
+
+.btn-entrar{
+    bottom: 70px;
+}
+
+.altura2 {
+    height: 60px    ;
+}
+
+.mb3 {
+    padding-bottom: 20px;
+}
+
+.imagem-muie {
+    background-image: url("testeconta3.png");
+    background-size: 990px;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.mb2 {
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+
+
+.mb4 {
+    margin-bottom: 40px;
+}
+
+.amarelo {
+    color: rgb(255, 196, 0);
+}
+
+.peso {
+    font-weight: 500;
+    font-size: 20px;
+}
+
+.linkpj {
+    text-decoration: none;
+    color: rgb(255, 208, 0);
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.linkpj:hover {
+    color: rgb(204, 156, 0);
+    border-bottom: solid rgba(0, 0, 0, 0.342) 1px;
+    
+}
+
+.pj {
+    margin-left: 100px;
+    margin-top: 70px;
+}
+
+.tamanho {
+    font-size: 50px;
+}
+
+.break-line {
+    line-height: 1.2;
+}

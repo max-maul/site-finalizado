@@ -1,0 +1,117 @@
+.nav-item{
+    margin-right: 40px;
+}
+
+.alturanav {
+        height: 20px;
+        border: solid black 1px;
+    }
+
+    .border-custom {
+        box-shadow: 1px 1px 2px ;
+}
+.navbar-brand{
+    height: 60px;
+}
+.botao-login {
+    text-decoration: none;
+    color: white;
+}
+
+.btn-entrar{
+    bottom: 70px;
+}
+
+.altura2 {
+    height: 60px    ;
+}
+
+.backcustom {
+
+    
+}
+
+.altura {
+    height: 80vh;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.mtcustom {
+   
+}
+
+.mtleft {
+    margin-left: 90px;
+    color: rgb(255, 255, 255);
+    
+    width: 350px;
+    height: 300px;
+    border-radius: 20px;
+}
+
+.fonte {
+    font-size: 21px;
+    font-weight: 600;
+}
+
+.pos {
+    margin-right: 20px;
+    height: 350px;
+    width: 270px;
+    border-radius: 10px;
+    background-color: rgb(255, 255, 255);
+    box-shadow: 10px 5px 5px black;
+    margin-top: 200px;
+}
+
+.texto {
+    
+    padding-left: 20px;
+    padding-top: 25px;
+    color: black;
+    font-size: 23px;
+    font-weight: 600;
+}
+
+.coloca {
+    width: 200px;
+    height: 30px;
+    margin-left: 25px;
+    margin-top: 50px;
+    border: 0;
+    background-color: white;
+    border-bottom: 1px solid gray;
+    outline: none;
+    padding-bottom: 15px;
+}
+
+.botao {
+    margin-top: 40px;
+    margin-left: 20px;
+    border-radius: 20px;
+}
+
+.coloca:focus {
+    border-bottom: solid black 1px;
+}
+
+.coloca:hover {
+    border-bottom: solid black 1px;
+}
+
+
+.imagem {
+    background-image: url(moçadahome.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+   
+}
+
+.texto2 {
+    padding-left: 20px;
+    padding-top: 200px;
+}
+

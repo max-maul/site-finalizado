@@ -1,0 +1,103 @@
+body {
+    overflow-y: hidden;
+}
+
+
+.col1 {
+    border: solid black 1px;
+}
+
+.muie {
+    background-image: url("mulher-transformed.jpeg");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.altura5 {
+    height: 100vh;
+    
+}
+
+.logo {
+    text-decoration: none;
+    color: black;
+}
+
+.margemto {
+    margin-top: 70px;
+    padding: 0;
+}
+
+.botaologin {
+    margin-top: 50px;
+    border-radius: 20px;
+    border: solid black 1px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 140px;
+    padding-right: 140px;
+    
+}
+
+.botaologin:hover {
+    border: solid black 1px;
+    background-color: black;
+    color: white;
+}
+
+.login-input {
+    border: 0;
+    border-bottom: solid black 2px;
+    padding-right: 150px;
+    outline: none;
+    
+}
+
+.mb {
+    margin-bottom: 10px;
+}
+
+.mb2 {
+    margin-bottom: 10px;
+}
+
+.margemfix {
+    margin-top: 50px;
+}
+
+.mt {
+    margin-top: 60px;
+}
+
+.menor {
+    font-size: 12px;
+}
+
+.rodape {
+    background-color: rgba(128, 128, 128, 0.521);
+    height: 30vh;
+}
+
+.esqueci {
+    text-decoration: none;
+    color: black;
+    font-size: 15px;
+    font-weight: 600;
+}
+
+.esqueci:hover {
+    color: rgba(0, 0, 0, 0.733);
+}
+.mt2 {
+    margin-top: 58px;
+}
+
+.mtacesse {
+    margin-top: 40px;
+}
+
+.mtlogo {
+    margin-top: 20px;
+    opacity: 0.9;
+}
